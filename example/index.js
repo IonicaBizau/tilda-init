@@ -2,4 +2,4 @@
 
 const tildaInit = require("../lib");
 
-console.log(tildaInit());
+tildaInit(`${__dirname}/..`, (err, data) => console.log(err || data))
