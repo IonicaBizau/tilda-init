@@ -1,0 +1,38 @@
+{
+  "name": "tilda-init",
+  "description": "Init cli applications.",
+  "keywords": [
+    "tilda",
+    "init",
+    "cli",
+    "applications"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "scripts/",
+    "build/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/tilda-init.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/tilda-init/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/tilda-init#readme"
+}
