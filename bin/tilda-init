@@ -6,5 +6,5 @@ const Tilda = require("tilda")
     ;
 
 new Tilda(`${__dirname}/../package.json`).main(action => {
-    tildaInit(`${__dirname}/..`, (err, data) => console.log(err || data))
+    tildaInit(".", (err, data) => console.log(err || data))
 });
