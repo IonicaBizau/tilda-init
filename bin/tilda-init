@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+"use strict";
+
+const Tilda = require("tilda")
+    , tildaInit = require("..")
+    ;
+
+new Tilda(`${__dirname}/../package.json`).main(action => {
+    tildaInit(`${__dirname}/..`, (err, data) => console.log(err || data))
+});
