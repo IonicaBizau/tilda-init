@@ -49,5 +49,8 @@
     "ul": "^5.2.6",
     "w-package-json": "^1.1.2",
     "write-file-p": "^1.0.0"
+  },
+  "blah": {
+      "description": ":memo: Check out the [Tilda documentation](https://github.com/IonicaBizau/tilda)"
   }
 }

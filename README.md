@@ -5,6 +5,8 @@
 
 > Init cli applications.
 
+:memo: Check out the [Tilda documentation](https://github.com/IonicaBizau/tilda)
+
 ## :cloud: Installation
 
 You can install the package globally and use it as command line tool:
