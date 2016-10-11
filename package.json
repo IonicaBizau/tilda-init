@@ -11,7 +11,7 @@
     "applications"
   ],
   "license": "MIT",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,7 +26,6 @@
     "resources/",
     "menu/",
     "scripts/",
-    "build/",
     "cli.js",
     "index.js"
   ],
