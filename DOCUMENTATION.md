@@ -11,5 +11,3 @@ Init the cli interface.
  - `path` (String): The test script name (default: `bin/{name}`)
 - **Function** `cb`: The callback function.
 
-Do something there
-
