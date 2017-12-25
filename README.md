@@ -15,7 +15,11 @@ You can install the package globally and use it as command line tool:
 
 
 ```sh
-$ npm i -g tilda-init
+# Using npm
+npm install --global tilda-init
+
+# Using yarn
+yarn global add tilda-init
 ```
 
 
@@ -38,10 +42,14 @@ Documentation can be found at https://github.com/IonicaBizau/tilda-init#readme.
 ## :clipboard: Example
 
 
-Here is an example how to use this package as library. To install it locally, as library, you can do that using `npm`:
+Here is an example how to use this package as library. To install it locally, as library, you can do that using `npm` (or `yarn`):
 
 ```sh
-$ npm i --save tilda-init
+# Using npm
+npm install --save tilda-init
+
+# Using yarn
+yarn add tilda-init
 ```
 
 
@@ -60,7 +68,9 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
+
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
 
 
 ## :memo: Documentation
